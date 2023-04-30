@@ -1,9 +1,9 @@
-const express = require('express');
+const express = require('express')
 
-const aboutRouter = require('./about');
+const aboutRouter = require('./about')
 
-const app = express();
+const app = express()
 
-app.use('/about', aboutRouter);
+app.use('/about', aboutRouter)
 
-module.exports = app;
+module.exports = app
