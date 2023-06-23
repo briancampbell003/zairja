@@ -1,0 +1,15 @@
+:root {
+    --primary: rgb(0, 0, 0);
+    --secondary: #c5b6f1;
+    --tertiary: #9886b3;
+    --quatrinary: #9f92c5;
+    --light: #e3e4e3;
+    --dark: #524171;
+    --error: rgb(228, 46, 1);
+    --border-radius: 0.3rem;
+  }
+  
+.zairja-head {
+    font-family: 'MedievalSharp', cursive;
+    font-style: italic;
+}
